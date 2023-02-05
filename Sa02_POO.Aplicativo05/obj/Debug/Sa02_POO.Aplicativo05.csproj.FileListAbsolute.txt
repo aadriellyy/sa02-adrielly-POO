@@ -1,0 +1,11 @@
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\bin\Debug\Sa02_POO.Aplicativo05.exe.config
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\bin\Debug\Sa02_POO.Aplicativo05.exe
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\bin\Debug\Sa02_POO.Aplicativo05.pdb
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\bin\Debug\Sa02-POO.RegraDeNegocio.dll
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\bin\Debug\Sa02-POO.RegraDeNegocio.pdb
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.csproj.CopyComplete
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.exe
+C:\Users\Antonio\Desktop\Desenvolvedor_C#\Sa02-POO\Sa02_POO.Aplicativo05\obj\Debug\Sa02_POO.Aplicativo05.pdb
